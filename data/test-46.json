@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which Article of the Indian Constitution deals with the President of India?",
+    "options": ["Article 52", "Article 74", "Article 110", "Article 148"],
+    "correct": 0,
+    "explanation": "Article 52 states that there shall be a President of India."
+  },
+  {
+    "question": "If the speed of a train is 60 km/h, how long will it take to cover 180 km?",
+    "options": ["2 hours", "2.5 hours", "3 hours", "3.5 hours"],
+    "correct": 2,
+    "explanation": "Time = Distance ÷ Speed = 180 ÷ 60 = 3 hours."
+  },
+  {
+    "question": "Find the synonym of 'abundant'.",
+    "options": ["Scarce", "Plentiful", "Brief", "Rigid"],
+    "correct": 1,
+    "explanation": "Abundant means plentiful or in large quantity."
+  },
+  {
+    "question": "What is the value of 45% of 200?",
+    "options": ["80", "85", "90", "95"],
+    "correct": 2,
+    "explanation": "45% of 200 = 0.45 × 200 = 90."
+  },
+  {
+    "question": "Which river is known as the 'Sorrow of Bihar'?",
+    "options": ["Kosi", "Ganga", "Brahmaputra", "Yamuna"],
+    "correct": 0,
+    "explanation": "The Kosi River is called the Sorrow of Bihar due to frequent floods."
+  }
+]
